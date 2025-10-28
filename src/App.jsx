@@ -46,7 +46,7 @@ import Invoices from "./pages/supplierdashboard/Invoices";
 import Document from "./pages/supplierdashboard/Documents";
 import Notification from "./pages/supplierdashboard/Notification";
 import Supreports from "./pages/supplierdashboard/supreports";
-import Profile from "./pages/supplierdashboard/Profile";
+import Profile from "./pages/supplierdashboard/profile";
 import Supdashboard from "./pages/supplierdashboard/supdashboard";
 // import SalesAndBilling from "./pages/Admin/SalesAndBilling";
 
