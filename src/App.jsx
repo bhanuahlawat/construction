@@ -28,7 +28,7 @@ import UserBackupPage from "./pages/Superadmin/Backup";
 import TrainingSupportPage from "./pages/Superadmin/TrainingSupport";
 
 // Subcontractor Imports
-import MainLayout from "./layout/MainLayout";
+import MainLayout from "./pages/MainLayout";
 import SubDashboard from "./pages/SubcontractorDashboard";
 import Projects from "./pages/Projects";
 import Material from "./pages/Material";
